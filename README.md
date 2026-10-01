@@ -209,3 +209,5 @@ make clean                 # удалить build/
 `docs/ARCHITECTURE.md` и `CHANGELOG.md` — исторические заметки, они не описывают
 текущее состояние проекта. `TODO.md` — черновой список автора.
 Test CI
+
+CI fixed
